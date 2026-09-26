@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WinterRose.TaskLock.Tests/WinterRose.TaskLock.Tests.csproj" />
+  <Project Path="WinterRose.TaskLock/WinterRose.TaskLock.csproj" />
+</Solution>
